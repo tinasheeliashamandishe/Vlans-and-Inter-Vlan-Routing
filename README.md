@@ -39,7 +39,7 @@ Inter VLAN Configuration 2: Layer 3 Switch:  <br/>
 <br />  
 <br />
 Inter Vlan connectivity between Support 1 , Accouting 2 and Administrator 2  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mj9gcge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
