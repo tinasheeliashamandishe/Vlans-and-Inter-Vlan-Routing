@@ -1,12 +1,12 @@
 <h1>VLANs and Inter-VLAN Routing</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This lab is a VLAN configuration for a small campus network. It includes Virtual Trunking Protocol, Access and Trunk ports, and inter-VLAN routing.
 <br />
 
 <h2>Environments Used </h2>
 
-- <b>Packet Trcaer</b> (21H2)
+- <b>Packet Trcaer</b>
 
 <h2>Lab walk-through:</h2>
 
