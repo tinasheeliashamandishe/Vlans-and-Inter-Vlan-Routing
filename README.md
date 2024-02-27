@@ -6,7 +6,7 @@ This lab is a VLAN configuration for a small campus network. It includes Virtual
 
 <h2>Environments Used </h2>
 
-- <b>Packet Trcaer</b>
+- <b>Packet Tracer</b>
 
 <h2>Lab walk-through:</h2>
 
